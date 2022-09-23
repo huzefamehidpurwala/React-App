@@ -20,13 +20,13 @@ body{
   }
   h1 {
     float: left;
-    color: #f50000a3;
+    color: #fff;
     font-family: Audiowide;
   }
   .btn {
     float: right;
     padding: 10px;
-    background-color: #c897f0a3;
+    background-color: #fff;
     cursor: pointer;
     border-radius: 5px;
   }
