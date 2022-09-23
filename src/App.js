@@ -33,6 +33,9 @@ function App() {
           );
         })}
       </div>
+      <footer>
+        <span>Made By <a href="http://jamali.cf/linkedin" target="_blank">Huzefa Mehidpurwala</a></span> | <span>All rights are reserved under the act of Copyright </span><span class="far fa-copyright"></span>
+      </footer>
       
     </>
   );
