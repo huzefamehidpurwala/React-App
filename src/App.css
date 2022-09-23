@@ -1,11 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:700|Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
 * {
     margin: 0%;
     padding: 0%;
 }
 body{
-background-image: url("bg.jpg");
-background-size: cover ; 
+  background: url("./royal-blue-textured-background-shutterworx.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: fixed;
 
 }
   .Nav {
@@ -18,6 +21,7 @@ background-size: cover ;
   h1 {
     float: left;
     color: #f50000a3;
+    font-family: Audiowide;
   }
   .btn {
     float: right;
